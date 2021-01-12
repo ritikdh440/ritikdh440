@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititue of Technology,Hamirpur.
 - 💼 &nbsp; Coordinator at National Level Hackathon, ELECTROTHON 3.0
 - 🌱 &nbsp; Learning more about Computer Vision & Artificial Intelligence.
-- ✍️ &nbsp;  .
+- ✍️ &nbsp;  Hobbies - Writing, Video Editing, Singing.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://ritikdh440.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://ritikdh440.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ritik-dhiman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ritik-dhiman/-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ritik-dhiman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ritik.dhiman-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:rkdh440official@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rkdh440official@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
