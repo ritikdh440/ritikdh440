@@ -4,7 +4,7 @@
       <img align="left" src=" " />
     </td>
     <td align="center">
-      <a href="https://benyou.me">
+      <a href="https://ritikdh440.github.io/">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://github.com/ritikdh440/ritikdh440/blob/main/giphy.mp4" />
