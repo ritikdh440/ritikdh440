@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititue of Technology,Hamirpur.
-- 💼 &nbsp; Coordinator at National Level Hackathon, ELECTROTHON 3.0
+- 💼 &nbsp; Coordinator at National Level Hackathon, Electrothon 3.0
 - 🌱 &nbsp; Learning more about Computer Vision & Artificial Intelligence.
 - ✍️ &nbsp;  Hobbies - Writing, Video Editing, Singing.
 
@@ -24,7 +24,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-after-effects)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
