@@ -26,7 +26,7 @@
 - 🖥 &nbsp;
   ![After-Effects](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=after-effects)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=premier-pro)
 
 <br/>
 
