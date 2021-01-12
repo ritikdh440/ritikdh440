@@ -1,7 +1,7 @@
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="https://media.giphy.com/media/Y3wH0icDeRfaS8Of7l/giphy.gif " />
+      <img align="left" src="https://github.com/ritikdh440/ritikdh440/blob/main/giphy.gif " />
     </td>
     <td align="center">
       <a href=https://ritikdh440.github.io/ ">
