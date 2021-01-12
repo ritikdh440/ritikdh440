@@ -1,8 +1,7 @@
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ritikdh440)](https://github.com/anuraghazra/github-readme-stats)>
-    </td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ritikdh440"
     <td align="center">
       <a href=https://ritikdh440.github.io/ ">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
