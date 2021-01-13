@@ -1,4 +1,4 @@
-<img src=" ">
+<img src="https://github.com/ritikdh440/ritikdh440/blob/main/1589581992174.jpeg">
 
 <h2> Hey there! I'm Ritik Dhiman.</h2>
 
