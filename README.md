@@ -13,7 +13,7 @@
  
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ritikdh440">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritikdh440&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikdh440&theme=buefy&layout=compact" />
 </a>
