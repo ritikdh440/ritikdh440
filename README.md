@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititue of Technology,Hamirpur.
 - 💼 &nbsp; Coordinator at National Level Hackathon, Electrothon 3.0.
-- 🌱 &nbsp; Learning more about Computer Vision & Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Hardware Modeling & Computer Vision.
 - ✍️ &nbsp;  Hobbies - Writing, Video Editing, Singing. <br>
 
  
