@@ -4,16 +4,16 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
-- 🤔 &nbsp; Exploring new technologies and developing solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititue of Technology,Hamirpur.
-- 💼 &nbsp; Coordinator at National Level Hackathon, Electrothon 3.0.
+- 💼 &nbsp; Senior Hardware Engineer at Bosch.
+- 🎓 &nbsp; Completed B.Tech and M.Tech in Electronics and Communication Engineering from NIT Hamirpur.
+- 🛠️ &nbsp; Lead Organizer of Electrothon 5.0, a National Level Hackathon.
+- 🤔 &nbsp; Passionate about exploring new technologies and developing innovative solutions.
 - 🌱 &nbsp; Learning more about Hardware Modeling & Computer Vision.
-- ✍️ &nbsp;  Hobbies - Writing, Video Editing, Singing. <br>
+- ✍️ &nbsp; Hobbies: Writing, Video Editing, Singing. <br>
 
- 
 ### 🛠 &nbsp;Tech Stack
 
- 
+
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
