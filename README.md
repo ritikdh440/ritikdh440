@@ -5,13 +5,15 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
 - 💼 &nbsp; Senior Hardware Engineer at Bosch.
-- 🎓 &nbsp; Completed B.Tech and M.Tech in Electronics and Communication Engineering from NIT Hamirpur.
+- 🎓 &nbsp; Completed an integrated Bachelor's + Master's degree in Electronics and Communication Engineering from NIT Hamirpur.
 - 🛠️ &nbsp; Lead Organizer of Electrothon 5.0, a National Level Hackathon.
+- 🎨 &nbsp; Passionate designer with a love for video editing, visual design, and creative storytelling.
 - 🤔 &nbsp; Passionate about exploring new technologies and developing innovative solutions.
 - 🌱 &nbsp; Learning more about Hardware Modeling & Computer Vision.
 - ✍️ &nbsp; Hobbies: Writing, Video Editing, Singing. <br>
 
 ### 🛠 &nbsp;Tech Stack
+
 
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
